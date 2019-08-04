@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\joshua.hillerup\\Source\\Idris\\Idris2"
+		}
+	],
+	"settings": 
+	{
+		"terminal.integrated.env.windows": 
+		{
+			"PATH": "${env:PATH};C:\\Users\\joshua.hillerup\\idris;C:\\msys64\\mingw64\\include;C:\\msys64\\mingw64\\bin;C:\\msys64\\usr\\bin"
+		}
+	}
+}
