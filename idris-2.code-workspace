@@ -8,8 +8,9 @@
 	{
 		"terminal.integrated.env.windows": 
 		{
-			"PATH": "${env:PATH};C:\\Users\\joshua.hillerup\\idris;C:\\msys64\\mingw64\\include;C:\\msys64\\mingw64\\bin;C:\\msys64\\usr\\bin;C:\\Users\\joshua.hillerup\\Source\\Idris\\Idris2",
-			"CHEZ": "C:\\Program Files\\Chez Scheme 9.5\\bin\\ta6nt"
+			"HOME": "${env:USERPROFILE}",
+			"PATH": "${env:PATH};C:\\Users\\joshua.hillerup\\idris;C:\\msys64\\mingw64\\include;C:\\msys64\\mingw64\\bin;C:\\msys64\\usr\\bin;C:\\Users\\joshua.hillerup\\Source\\Idris\\Idris2;${env:USERPROFILE}\\.idris2\\bin",
+			"CHEZ": "C:\\Program Files\\Chez Scheme 9.5\\bin\\ta6nt"		
 		}
 	}
 }
